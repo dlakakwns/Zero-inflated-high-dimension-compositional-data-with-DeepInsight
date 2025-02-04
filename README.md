@@ -31,3 +31,11 @@ This project requires the following Python libraries:
 + optuna
 
 Ensure all required dependencies are installed before running the project. This project was developed using Python 3.9, but other versions may also work.
+
+# Files Description
+
++ Example.ipynb: A Jupyter Notebook providing an example of the overall process, including images.
+
++ Modified_DeepInsight.ipynb: A notebook supporting the performance claims made in our paper. (Comments are in Korean, apologies for any inconvenience.)
+
++ Original_DeepInsight.ipynb: A notebook demonstrating the original DeepInsight method’s performance for comparison. (Comments are in Korean, apologies for any inconvenience.)
